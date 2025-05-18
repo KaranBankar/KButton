@@ -1,15 +1,15 @@
-# KButton
+# KButton 
+
+## Android Library for Animated Button
 
 KButton is a simple, elegant custom button. it has smooth click animations and easy customization.
-
-## 🚀 Quick Start
 
 ### 1. Add the Dependency
 Add the KButton library to your `build.gradle` dependencies:
 
 ```kotlin
 dependencies {
-    implementation("com.karan.kbutton:kbutton:v1.0.0")
+    implementation ("com.github.KaranBankar:KButton:v1.0.0")
 }
 ```
 
@@ -24,7 +24,7 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        maven("https://jitpack.io")
+        maven(url = "https://jitpack.io")
     }
 }
 ```
