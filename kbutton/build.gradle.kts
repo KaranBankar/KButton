@@ -43,4 +43,6 @@ dependencies {
 
     implementation("androidx.core:core-ktx:1.12.0")
     implementation("androidx.cardview:cardview:1.0.0")
+    implementation ("com.github.KaranBankar:KButton:v1.0.0")
+
 }
